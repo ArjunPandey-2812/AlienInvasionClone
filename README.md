@@ -14,7 +14,7 @@
 ## Installation and Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/alien-invasion.git
+   git clone  https://github.com/ArjunPandey-2812/AlienInvasionClone.git
    ```
 
 2. **Navigate to the project folder**:
@@ -39,16 +39,6 @@
 - Press the **spacebar** to shoot bullets.
 - Shoot down the aliens before they reach your ship.
 - Earn points by destroying as many aliens as possible.
-
-## Project Structure
-```bash
-alien-invasion/
-├── assets/              # Game assets (images, sounds, etc.)
-├── alien_invasion.py     # Main game file
-├── game_functions.py     # Core game logic
-├── settings.py           # Game settings and configurations
-└── README.md             # Project documentation
-```
 
 ## Technologies Used
 - **Python**: Core programming language.
