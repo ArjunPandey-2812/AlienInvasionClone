@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your **Alien Invasion** project:
-
----
-
 # Alien Invasion Game
 
 ## Overview
